@@ -1,2 +1,14 @@
 # leetcode
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/vikramsp08/leetcode/tree/master/3360-stone-removal-game) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/vikramsp08/leetcode/tree/master/3360-stone-removal-game) |
+<!---LeetCode Topics End-->
